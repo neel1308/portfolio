@@ -14,12 +14,13 @@ export default function Contact() {
       <div className="contact-links">
         <div>
           // email <br />
-          <a href={`mailto:${links.email}`}>email</a>
+          <a href={`mailto:${links.email}`}>neel1308.dev@gmail.com
+        </a>
         </div>
         <div>
           // LinkedIn <br />
           <a href={links.linkedin} target="_blank" rel="noreferrer">
-            Linkedin
+            linkedin.com/in/neelpatel1308
           </a>
         </div>
         <div>
