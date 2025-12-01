@@ -28,13 +28,13 @@ export const skills = {
     { name: "Git & GitHub", level: 80 }
   ],
   tools: [
-    "VS Code",
-    "React Router",
-    "Redux",
-    "UI/UX Collaboration",
+    "Frontend Development",
+    "Git & GitHub",
+    "Prompt engineering",
+    "Data Analytics",
     "Software Engineering",
     "Database Management",
-    "Data Analytics"
+    "Project Planning & Flow Design"
   ]
 };
 
@@ -201,8 +201,8 @@ export const certificates = [
 ];
 
 export const links = {
-  email: "your-email@example.com", // TODO: put your real email
-  linkedin: "https://www.linkedin.com/in/your-linkedin", // TODO
+  email: "neel1308.dev@gmail.com", // TODO: put your real email
+  linkedin: "https://www.linkedin.com/in/neelpatel1308/", // TODO
   github: "https://github.com/neel1308",
   youtube: "https://www.youtube.com/@lagzerogaming"
 };
