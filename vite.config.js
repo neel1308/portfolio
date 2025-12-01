@@ -3,6 +3,5 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   plugins: [react()],
-  // IMPORTANT: repo name as base when using https://username.github.io/repo/
-  base: "/portfolio/",
+  base: "/", // IMPORTANT: root path for neelpatel.tech
 });
