@@ -97,25 +97,107 @@ export const experience = {
 
 export const certificates = [
   {
-    name: "AWS Solutions Architecture",
-    provider: "Forage",
-    year: "2025"
+    title: "AWS Solutions Architecture",
+    issuer: "Forage",
+    year: 2025,
+    link: "https://drive.google.com/file/d/1p7tbIqorHFJ9t6oSDqY1iyVJIG-VgEsY/view?usp=sharing",
+  },
+ {
+    title: "Be10x AI Tools Workshop",
+    issuer: "Be10x",
+    year: 2025,
+    link: "https://drive.google.com/file/d/1JFToNLLR90Amb1ZTUOMUOwKd94qN3e3L/view?usp=sharing",
   },
   {
-    name: "Be10x AI Tools Workshop",
-    provider: "Be10x",
-    year: "2025"
+    title: "Creart 15 Days Internship Certificate",
+    issuer: "Creart",
+    year: 2025,
+    link: "https://drive.google.com/file/d/1Pjwi6lfILkvURlrP05pupEoS79uTWFoC/view?usp=sharing",
   },
   {
-    name: "CreArt 15 Days Internship Certificate",
-    provider: "CreArt",
-    year: "2025"
+    title: "Deloitte Cyber",
+    issuer: "Forage",
+    year: 2025,
+    link: "https://drive.google.com/file/d/1FYyT9MRD7V6-mtpqcT-aMJRVbIAHRASB/view?usp=sharing",
   },
   {
-    name: "Deloitte Cyber",
-    provider: "Forage",
-    year: "2025"
-  }
+    title: "Deloitte Data Analytics",
+    issuer: "Forage",
+    year: 2025,
+    link: "https://drive.google.com/file/d/1f1zHRqNG_kOGCqa1hRTe4PEHKxUmJ-24/view?usp=sharing",
+  },
+  {
+    title: "Deloitte Technology",
+    issuer: "Forage",
+    year: 2025,
+    link: "https://drive.google.com/file/d/1PH2pY0DUHOFg2Cz9VGw1C6-X5JgP0eiv/view?usp=sharing",
+  },
+  {
+    title: "ECommerce Certificate",
+    issuer: "Empi School",
+    year: 2024,
+    link: "https://drive.google.com/file/d/1NVKFj1VLEWctG66Mly9R0wTpUtN_FFqD/view?usp=sharing",
+  },
+  {
+    title: "Hack for Impact",
+    issuer: "IIIT Delhi",
+    year: 2025,
+    link: "https://drive.google.com/file/d/1o_Nn0ipkDQ3KrQxha1Fc3JHZP8orDT_B/view?usp=sharing",
+  },
+  {
+    title: "JPMorgan Chase & Co. Software Engineering",
+    issuer: "Forage",
+    year: 2025,
+    link: "https://drive.google.com/file/d/1jLioV0t16I0lBejMIZSSeZtt8ZwnuV8P/view?usp=sharing",
+  },
+  {
+    title: "OutSkill AI Workshop",
+    issuer: "Growthschool",
+    year: 2025,
+    link: "https://drive.google.com/file/d/1_h2BP5jXtXfi0WMwKFjYWRcqVwNjjBwZ/view?usp=sharing",
+  },
+  {
+    title: "Mastercard Cybersecurity",
+    issuer: "Forage",
+    year: 2025,
+    link: "https://drive.google.com/file/d/1b02sJWzItd8TQrhIuf3c_Wkb9d03WaMj/view?usp=sharing",
+  },
+  {
+    title: "New York Council Software Engineering",
+    issuer: "Forage",
+    year: 2025,
+    link: "https://drive.google.com/file/d/1R9parTjhP2nDC98kqFS9pdhprgNCeeeV/view?usp=sharing",
+  },
+  {
+    title: "Stock Market Basics",
+    issuer: "Elearnmarkets",
+    year: 2025,
+    link: "https://drive.google.com/file/d/1r3Bshgn7NWFOFyWWowehrejtKpma_1hz/view?usp=sharing",
+  },
+  {
+    title: "Tata Cybersecurity Analyst",
+    issuer: "Forage",
+    year: 2025,
+    link: "https://drive.google.com/file/d/14_iHMDIvLkJTMFHVCXo7MVz8optLAw9k/view?usp=sharing",
+  },
+  {
+    title: "Tata GenAI Powered Data Analytics",
+    issuer: "Forage",
+    year: 2025,
+    link: "https://drive.google.com/file/d/1Za3FKN2ShqZ_pDe04lG13HFQU5dkuEsf/view?usp=sharing",
+  },
+  {
+    title: "TIC-TECH-TOE",
+    issuer: "DAIICT",
+    year: 2025,
+    link: "https://drive.google.com/file/d/1_ubut5FE7PZZWjUfc-qlmBhsg-f49GIa/view?usp=sharing",
+  },
+  {
+    title: "Web Development Workshop",
+    issuer: "Vibrant Techonology",
+    year: 2025,
+    link: "https://drive.google.com/file/d/1d7JGCCGgAzku3wBcd5nJdi9Gk5Ir4wg4/view?usp=sharing",
+  },
 ];
 
 export const links = {
